@@ -30,7 +30,7 @@ This project analyzes global COVID-19 data to uncover patterns in infections, de
    pip install pandas numpy plotly jupyter
    ````
 
-2. Download the dataset (e.g., ![Our World in Data COVID-19 Dataset](https://github.com/owid/covid-19-data))
+2. Download the dataset (e.g., [Our World in Data COVID-19 Dataset](https://github.com/owid/covid-19-data))
 
 ---
 
